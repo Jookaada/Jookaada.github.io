@@ -18,6 +18,7 @@ body{
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  box-shadow: 5px 5px #000000;
 }
 
 .menu li{
@@ -44,4 +45,14 @@ li a:hover{
 
 .selected:hover{
   background-color: #aaaaaa;
+}
+
+.tab{
+  display: block;
+  padding: 2px 10px 2px 10px;
+  background-color: #222222;
+  color: white;
+  font-family: "Arsenal", sans-serif;
+  font-size: 120%;
+  box-shadow: 5px 5px #000000;
 }
