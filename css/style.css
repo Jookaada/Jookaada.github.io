@@ -1,3 +1,8 @@
+.center_logo{
+  margin:auto;
+  width: 95%;
+}
+
 .logo{
   text-align: center;
   font-family: Arial;
@@ -6,6 +11,11 @@
   text-shadow: 5px 5px #000000;
   font-size: 200%;
   text-decoration: none;
+}
+
+.sidebar_logo{
+  float: right;
+  width: 24px;
 }
 
 body{
