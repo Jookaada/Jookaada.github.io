@@ -65,7 +65,10 @@ li a:hover{
 
 .tab{
   width: 90%;
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: 1%;
   display: block;
   padding: 2px 10px 2px 10px;
   background-color: #222222;
